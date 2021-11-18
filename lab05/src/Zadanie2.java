@@ -1,0 +1,2 @@
+public class Zadanie2 {
+}
